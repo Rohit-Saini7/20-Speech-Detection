@@ -4,7 +4,7 @@ Date: July 23, 2022
 
 # Twentyth challange of [JavaScript30](https://javascript30.com/)
 
-This is basic speech-to-text which only works in Google Chrome, make sure to allow ues of microphone. To experience on your own visit [here](https://rohit-saini7.github.io/20-Speech-Detection/).
+This is basic speech-to-text which only works in Google Chrome, make sure to allow use of microphone. To experience on your own visit [here](https://rohit-saini7.github.io/20-Speech-Detection/).
 
 ## What is JavaScript 30
 
